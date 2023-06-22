@@ -32,7 +32,7 @@ Uncomment and modify Wifi client settings in secrets.h file:
 
 # Wiring
 
-
+![alt tag](https://github.com/BubuHub/ESP8266_WireCutter/blob/main/blob/assets/schematic.svg)
 
 ## Building
 
