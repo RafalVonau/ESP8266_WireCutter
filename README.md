@@ -5,6 +5,8 @@
 This repository contains the software for my ESP8266 based wire cutter.
 I'm using an D1 mini(ESP8266) for controlling the stepper and the servo.
 
+![alt tag](https://github.com/BubuHub/ESP8266_WireCutter/blob/main/blob/assets/wirecutter.jpg)
+
 The project was built on D1 mini board connected to PC computer over USB as /dev/ttyUSB0 under Linux.
 Uncomment and modify Wifi client settings in secrets.h file:
 * #define WIFI_SSID                "SSID"
@@ -17,7 +19,7 @@ Uncomment and modify Wifi client settings in secrets.h file:
 * 1 x TMC2208/A4988/equivalent,
 * 1 x Stepper mottor Nema 17
 * Servo SG90/equivalent
-* 3D printed and mechanical parts (optional)
+* Extruder MK8
 * wires
 * connectors
 
