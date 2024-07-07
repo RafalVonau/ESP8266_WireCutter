@@ -5,7 +5,7 @@
 This repository contains the software for my ESP8266 based wire cutter.
 I'm using an D1 mini(ESP8266) for controlling the stepper and the servo.
 
-![alt tag](https://github.com/BubuHub/ESP8266_WireCutter/blob/main/blob/assets/wirecutter.jpg)
+![alt tag](https://github.com/RafalVonau/ESP8266_WireCutter/blob/main/blob/assets/wirecutter.jpg)
 
 The project was built on D1 mini board connected to PC computer over USB as /dev/ttyUSB0 under Linux.
 Uncomment and modify Wifi client settings in secrets.h file:
@@ -32,7 +32,7 @@ Uncomment and modify Wifi client settings in secrets.h file:
 
 # Wiring
 
-![alt tag](https://github.com/BubuHub/ESP8266_WireCutter/blob/main/blob/assets/schematic.svg)
+![alt tag](https://github.com/RafalVonau/ESP8266_WireCutter/blob/main/blob/assets/schematic.svg)
 
 ## Building
 
